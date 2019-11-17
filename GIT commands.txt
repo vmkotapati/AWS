@@ -1,0 +1,14 @@
+1) Git --version
+2) Git status
+3) Git Init 
+4) Touch <file name>  -> To create file
+5) git config --global user.name 'mohan'
+6) git confib --global user.mail 'vmkotapati@gmail.com'
+7) git add <file name>
+7a)git add . -> to add entire local repository
+8) git rm --cached  <file name> removes from 
+9) git commit -m '<any comment>'
+10)git remote add origin <paste the url of the remote repository>
+11)git push -u origin master 
+12)git pull - to pull remote repository to local repository
+13)git clone <remote repository url>
