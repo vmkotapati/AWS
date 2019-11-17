@@ -11,7 +11,9 @@
 10)git remote add origin <paste the url of the remote repository>
 11)git push -u origin master 
 12)git pull - to pull remote repository to local repository
-13)git clone <remote repository url>
+13)git clone <remote repository url>   to clone remote repository to local repository
 14)git branch -> list all the branches.
 15)git branch <branch name> create new branch
 16)git branch -b <branchname> create a new brach and point command prompt to new bracher.
+17)git checkout <branchname>
+18)git merge <branchname>
